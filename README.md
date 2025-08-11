@@ -49,7 +49,7 @@ A aplicação é totalmente responsiva e se adapta a diferentes tamanhos de tela
 
 ## 🔗 Demo
 
-[Ver aplicação funcionando](https://seuusuario.github.io/calculadora-imc)
+[Ver aplicação funcionando](https://arlindo22.github.io/CalculadoraIMC)
 
 ---
 
